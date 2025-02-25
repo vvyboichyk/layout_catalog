@@ -24,14 +24,14 @@
     flex-direction: column;
   }
 
-  &__name {
+  &__title {
     margin: 0;
     font-size: 12px;
     font-weight: 500;
     line-height: 18px;
   }
 
-  &:hover .product-card__name {
+  &:hover .product-card__title {
     color: #34568b;
   }
 

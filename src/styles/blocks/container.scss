@@ -4,7 +4,7 @@
 
   padding-top: 50px;
   padding-inline: 40px;
-  grid-template-columns: (1, 200px);
+  grid-template-columns: repeat(1, 200px);
   grid-gap: 48px;
   grid-row-gap: 46px;
 
